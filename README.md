@@ -1,8 +1,8 @@
-## {hello-world-pages}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+## Poems for terminal lovers
+#### Poem Tag, Version 0.1a
+#### By **Timothy Matara**
 ## Description
-{Have you ever wanted to have a poem generated just from a single word? This app is able to generate a poem just from a few words. Try it! }
+Have you ever wanted to have a poem generated just from a single word? This app is able to generate a poem just from a few words. Try it!
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
